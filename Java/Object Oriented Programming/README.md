@@ -1,4 +1,4 @@
-## [ObjectOrientedProgramming](https://www.hackerrank.com/domains/java/oop)
+## [Object Oriented Programming](https://www.hackerrank.com/domains/java/oop)
 
 |Problem Name|Problem Link|Points|Solution Link|
 ---|---|---|---
