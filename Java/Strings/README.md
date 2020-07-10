@@ -2,6 +2,7 @@
 
 |Problem Name|Problem Link|Points|Solution Link|
 ---|---|---|---
+|Java Anagrams|[Problem](https://www.hackerrank.com/challenges/java-anagrams/problem)|java|[Solution](./JavaAnagrams.java)|
 |Java String Reverse|[Problem](https://www.hackerrank.com/challenges/java-string-reverse/problem)|10|[Solution](./JavaStringReverse.java)|
 |Java Strings Introduction|[Problem](https://www.hackerrank.com/challenges/java-strings-introduction/problem)|5|[Solution](./JavaStringsIntroduction.java)|
 |Java Substring|[Problem](https://www.hackerrank.com/challenges/java-substring/problem)|5|[Solution](./JavaSubstring.java)|
