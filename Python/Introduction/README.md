@@ -1,5 +1,5 @@
 ## [Introduction](https://www.hackerrank.com/domains/python/py-introduction)
 
-|Problem Name|Problem Link|Language|Solution Link|
+|Problem Name|Problem Link|Points|Solution Link|
 ---|---|---|---
-|Write a function|[Problem](https://www.hackerrank.com/challenges/write-a-function/problem)|python3|[Solution](./WriteAFunction.py)|
+|Write a function|[Problem](https://www.hackerrank.com/challenges/write-a-function/problem)|10|[Solution](./WriteAFunction.py)|
