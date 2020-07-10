@@ -1,28 +1,28 @@
 import java.io.*;
-import java.util.*;
-import java.text.*;
 import java.math.*;
+import java.security.*;
+import java.text.*;
+import java.util.*;
+import java.util.concurrent.*;
 import java.util.regex.*;
+
 public class Solution {
-   
-   public static void main(String[] args) {
-      Scanner scan = new Scanner(System.in);
-      int n = scan.nextInt(); 
-      scan.close();
-      String ans="";
-          
-      // if 'n' is NOT evenly divisible by 2 (i.e.: n is odd)
-      if(n%2==1){
-         ans = "Weird";
-      }
-      else{
-         if(n<6)
-             ans="Not Weird";
-         else if(n<21)
-             ans="Weird";
-         else
-             ans="Not Weird";
-      }
-      System.out.println(ans);
-   }
+    private static final Scanner scanner = new Scanner(System.in);
+
+    public static void main(String[] args) {
+        int N = scanner.nextInt();
+        scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
+        scanner.close();
+        if(N%2!=0)
+        System.out.println("Weird");
+        else{
+            if(N==2 || N==4)
+            System.out.println("Not Weird");
+            else if( N>=6 && N<=20)
+            System.out.println("Weird");
+            else
+            System.out.println("Not Weird");
+        }
+
+    }
 }
