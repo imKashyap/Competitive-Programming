@@ -9,3 +9,4 @@
 |Day 4: Class vs. Instance|[Problem](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)|java|[Solution](./Day4:Classvs.Instance.java)|
 |Day 5: Loops|[Problem](https://www.hackerrank.com/challenges/30-loops/problem)|java|[Solution](./Day5:Loops.java)|
 |Day 6: Let's Review|[Problem](https://www.hackerrank.com/challenges/30-review-loop/problem)|java|[Solution](./Day6:Let'sReview.java)|
+|Day 7: Arrays|[Problem](https://www.hackerrank.com/challenges/30-arrays/problem)|java|[Solution](./Day7:Arrays.java)|
