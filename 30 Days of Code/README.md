@@ -12,3 +12,4 @@
 |Day 7: Arrays|[Problem](https://www.hackerrank.com/challenges/30-arrays/problem)|java|[Solution](./Day7_Arrays.java)|
 |Day 8: Dictionaries and Maps|[Problem](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)|java|[Solution](./Day8:DictionariesandMaps.java)|
 |Day 9: Recursion 3  |[Problem](https://www.hackerrank.com/challenges/30-recursion/problem)|java|[Solution](./Day9:Recursion3.java)|
+|Day 10: Binary Numbers|[Problem](https://www.hackerrank.com/challenges/30-binary-numbers/problem)|java|[Solution](./Day10:BinaryNumbers.java)|
