@@ -13,3 +13,6 @@
 |Day 8: Dictionaries and Maps|[Problem](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)|java|[Solution](./Day8:DictionariesandMaps.java)|
 |Day 9: Recursion 3  |[Problem](https://www.hackerrank.com/challenges/30-recursion/problem)|java|[Solution](./Day9:Recursion3.java)|
 |Day 10: Binary Numbers|[Problem](https://www.hackerrank.com/challenges/30-binary-numbers/problem)|java|[Solution](./Day10:BinaryNumbers.java)|
+|Day 11: 2D Arrays|[Problem](https://www.hackerrank.com/challenges/30-2d-arrays/problem)|java|[Solution](./Day11:2DArrays.java)|
+|Day 12: Inheritance|[Problem](https://www.hackerrank.com/challenges/30-inheritance/problem)|java|[Solution](./Day12:Inheritance.java)|
+|Day 13: Abstract Classes|[Problem](https://www.hackerrank.com/challenges/30-abstract-classes/problem)|java|[Solution](./Day13:AbstractClasses.java)|
