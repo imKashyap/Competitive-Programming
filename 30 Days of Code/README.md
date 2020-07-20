@@ -16,3 +16,5 @@
 |Day 11: 2D Arrays|[Problem](https://www.hackerrank.com/challenges/30-2d-arrays/problem)|java|[Solution](./Day11:2DArrays.java)|
 |Day 12: Inheritance|[Problem](https://www.hackerrank.com/challenges/30-inheritance/problem)|java|[Solution](./Day12:Inheritance.java)|
 |Day 13: Abstract Classes|[Problem](https://www.hackerrank.com/challenges/30-abstract-classes/problem)|java|[Solution](./Day13:AbstractClasses.java)|
+|Day 14: Scope|[Problem](https://www.hackerrank.com/challenges/30-scope/problem)|java|[Solution](./Day14:Scope.java)|
+|Day 15: Linked List|[Problem](https://www.hackerrank.com/challenges/30-linked-list/problem)|java|[Solution](./Day15:LinkedList.java)|
