@@ -19,3 +19,4 @@
 |Day 14: Scope|[Problem](https://www.hackerrank.com/challenges/30-scope/problem)|java|[Solution](./Day14:Scope.java)|
 |Day 15: Linked List|[Problem](https://www.hackerrank.com/challenges/30-linked-list/problem)|java|[Solution](./Day15:LinkedList.java)|
 |Day 16: Exceptions - String to Integer|[Problem](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem)|java|[Solution](./Day16:Exceptions-StringtoInteger.java)|
+|Day 17: More Exceptions|[Problem](https://www.hackerrank.com/challenges/30-more-exceptions/problem)|java|[Solution](./Day17:MoreExceptions.java)|
