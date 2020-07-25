@@ -20,3 +20,7 @@
 |Day 15: Linked List|[Problem](https://www.hackerrank.com/challenges/30-linked-list/problem)|java|[Solution](./Day15:LinkedList.java)|
 |Day 16: Exceptions - String to Integer|[Problem](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem)|java|[Solution](./Day16:Exceptions-StringtoInteger.java)|
 |Day 17: More Exceptions|[Problem](https://www.hackerrank.com/challenges/30-more-exceptions/problem)|java|[Solution](./Day17:MoreExceptions.java)|
+|Day 18: Queues and Stacks|[Problem](https://www.hackerrank.com/challenges/30-queues-stacks/problem)|java|[Solution](./Day18:QueuesandStacks.java)|
+|Day 19: Interfaces|[Problem](https://www.hackerrank.com/challenges/30-interfaces/problem)|java|[Solution](./Day19:Interfaces.java)|
+|Day 20: Sorting|[Problem](https://www.hackerrank.com/challenges/30-sorting/problem)|java|[Solution](./Day20:Sorting.java)|
+|Day 21: Generics|[Problem](https://www.hackerrank.com/challenges/30-generics/problem)|java|[Solution](./Day21:Generics.java)|
