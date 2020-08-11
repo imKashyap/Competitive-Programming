@@ -5,3 +5,5 @@
 |Day 0: Hello, World!|[Problem](https://www.hackerrank.com/challenges/js10-hello-world/problem)|10|[Solution](./Day0_Hello,World!.js)|
 |Day 0:  Data Types|[Problem](https://www.hackerrank.com/challenges/js10-data-types/problem)|10|[Solution](./Day0_DataTypes.js)|
 |Day 1: Arithmetic Operators|[Problem](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem)|10|[Solution](./Day1_ArithmeticOperators.js)|
+|Day 1: Functions|[Problem](https://www.hackerrank.com/challenges/js10-function/problem)|10|[Solution](./Day1_Functions.js)|
+|Day 2: Loops|[Problem](https://www.hackerrank.com/challenges/js10-loops/problem)|10|[Solution](./Day2_Loops.js)|
