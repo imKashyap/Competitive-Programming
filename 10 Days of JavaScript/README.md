@@ -13,5 +13,7 @@
 |Day 3: Arrays|[Problem](https://www.hackerrank.com/challenges/js10-arrays/problem)|15|[Solution](./Day3_Arrays.js)|
 |Day 3: Try, Catch & Finally|[Problem](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem)|15|[Solution](./Day3_Try,CatchAndFinally.js)|
 |Day 3: Throw|[Problem](https://www.hackerrank.com/challenges/js10-throw/problem)|15|[Solution](./Day3_Throw.js)|
+|Day 4: Create a Rectangle Object|[Problem](https://www.hackerrank.com/challenges/js10-objects/problem)|15|[Solution](./Day4_CreateARectangleObject.js)|
+|Day 4: Count Objects|[Problem](https://www.hackerrank.com/challenges/js10-count-objects/problem)|15|[Solution](./Day4_CountObjects.js)|
 |Day 7: Regular Expressions I|[Problem](https://www.hackerrank.com/challenges/js10-regexp-1/problem)|15|[Solution](./Day7_RegularExpressionsI.js)|
 
