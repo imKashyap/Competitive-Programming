@@ -6,4 +6,4 @@
     </a>
 </p>
 
-This repository contains my solutions of problems over GeeksForGeeks across different domains.
+This directory contains my solutions of problems over GeeksForGeeks across different domains.
