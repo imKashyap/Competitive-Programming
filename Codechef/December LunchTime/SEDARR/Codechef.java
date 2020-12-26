@@ -10,24 +10,25 @@ class Codechef
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		// your code goes here
-		try{
+	    try{
 		    BufferedReader br = new BufferedReader(new InputStreamReader(System.in)); 
             int t = Integer.parseInt(br.readLine());
             while(t--!=0){
                 String line = br.readLine(); 
                 String[] temp = line.trim().split("\\s+"); 
-                int x=Integer.parseInt(temp[0]);
-                int y=Integer.parseInt(temp[1]);
-                int k=Integer.parseInt(temp[2]);
-                int n=Integer.parseInt(temp[3]);
-                // System.out.println(x);
-                // System.out.println(y);
-                // System.out.println(k);
-                // System.out.println((x-y)%k);
-                if((x-y)%(2*k)==0)
-                    System.out.println("Yes");
-                else 
-                    System.out.println("No");
+                int n=Integer.parseInt(temp[0]);
+                int k=Integer.parseInt(temp[1]);
+                int[] arr= new int[n];
+                line = br.readLine(); 
+                temp = line.trim().split("\\s+"); 
+                for (int i = 0; i < n; i++) 
+                    arr[i] = Integer.parseInt(temp[i]);
+                int sum=0;
+                for (int i = 0; i < n; i++)
+                    sum+=arr[i];
+                if(sum%k==0)
+                    System.out.println("0");
+                else System.out.println("1");
             }
             br.close();
 		}
