@@ -3,6 +3,7 @@
 This repository is personal, made public in the hope that someone may find it useful, but:
  -   Solutions may not be best in algorithmic complexity terms.
  -   Solutions may have been written in a rush during a contest and may not make any sense.
+ -   Solutions may be even only partially correct(can not work perfectly for all test cases)
 ***
 My Coding Platform Ids:
  - [Codechef](https://www.codechef.com/users/imkashyap/)
