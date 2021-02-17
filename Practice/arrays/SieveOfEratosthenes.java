@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class SieveOfEratosthenes {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner scr = new Scanner(System.in);
 		System.out.println("Enter size of sieve:");
 		int size = scr.nextInt();
