@@ -1,6 +1,7 @@
 import java.io.*;
 
 public class MergeSort {
+    // time complexity: O(logn).
     public static void main(String[] args)throws IOException{
         BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
         int n=Integer.parseInt(br.readLine());
