@@ -1,5 +1,3 @@
-package myPrograms.arrays;
-
 import java.util.Scanner;
 
 public class MatrixMultiplication {
