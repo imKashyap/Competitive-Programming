@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class MatrixMultiplication {
 
 	static Scanner scan = new Scanner(System.in);
-
 	public static void main(String[] args) {
 		int row1, column1, row2, column2;
 		System.out.println("Enter no. of rows and columns of 1st matrix:");
