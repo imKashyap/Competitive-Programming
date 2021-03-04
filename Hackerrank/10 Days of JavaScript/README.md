@@ -26,5 +26,6 @@
 |Day 7: Regular Expressions III|[Problem](https://www.hackerrank.com/challenges/js10-regexp-3/problem)|15|[Solution](./Day7_RegularExpressionsIII.js)|
 |Day 8: Create A Button |[Problem](https://www.hackerrank.com/challenges/js10-create-a-button?hr_b=1)|20|[Solution](./Day8_CreateAButton/)|
 |Day 8: Buttons Container |[Problem](https://www.hackerrank.com/challenges/js10-buttons-container?h_r=next-challenge&h_v=zen&hr_b=1)|20|[Solution](./Day8_ButtonsContainer/)|
+|Day 9: Binary Calculator |[Problem](https://www.hackerrank.com/challenges/js10-binary-calculator?hr_b=1)|30|[Solution](./Day9_BinaryCalculator/)|
 
 
