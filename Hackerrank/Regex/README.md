@@ -23,6 +23,16 @@
 |Matching Word Boundaries|[Problem](https://www.hackerrank.com/challenges/matching-word-boundaries/problem)|java|[Solution](./Grouping%20&%20Capturing/MatchingWordBound.java)|
 |Capturing & Non-Capturing Groups|[Problem](https://www.hackerrank.com/challenges/capturing-non-capturing-groups/problem)|java|[Solution](./Grouping%20&%20Capturing/Capturing-Non-CapturingGroups.java)|
 |Alternative Matching|[Problem](https://www.hackerrank.com/challenges/alternative-matching/problem)|java|[Solution](./Grouping%20&%20Capturing/AlternativeMatch.java)|
+**Backrefrences**|||
+|Matching Same Text Again & Again|[Problem](https://www.hackerrank.com/challenges/matching-same-text-again-again/problem)|java|[Solution](./Backrefrences/MatchingSameText.java)|
+|Backreferences to Failed Groups|[Problem](https://www.hackerrank.com/challenges/backreferences-to-failed-groups/problem)|java|[Solution](./Backrefrences/BackrefToFailedGrps.java)|
+|Branch Reset Groups Groups|[Problem](https://www.hackerrank.com/challenges/branch-reset-groups/problem)|php|[Solution](./Backrefrences/BranchResetGrps.php)|
+|Forward References|[Problem](https://www.hackerrank.com/challenges/forward-references/problem)|php|[Solution](./Backrefrences/ForwardRefs.php)|
+**Assertions**|||
+|Positive Lookahead|[Problem](https://hackerrank.com/challenges/positive-lookahead/problem)|java|[Solution](./Assertions/PositiveLookahead.java)|
+|Negative Lookahead|[Problem](https://hackerrank.com/challenges/negative-lookahead/problem)|java|[Solution](./Assertions/NegativeLookahead.java)|
+|Positive Lookbehind|[Problem](https://hackerrank.com/challenges/positive-lookbehind/problem)|java|[Solution](./Assertions/PositiveLookbehind.java)|
+|Negative Lookbehind|[Problem](https://www.hackerrank.com/challenges/negative-lookbehind/problem)|java|[Solution](./Assertions/NegativeLookbehind.java)|
 **Applications**|||
 |Find A Sub-Word|[Problem](https://www.hackerrank.com/challenges/find-substring/problem)|java|[Solution](./Applications/FindASubWord.java)|
 Alien Username|[Problem](https://www.hackerrank.com/challenges/alien-username/problem)|java|[Solution](./Applications/AlienUsername.java)|
