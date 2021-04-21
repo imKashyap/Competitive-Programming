@@ -32,7 +32,17 @@
 |Positive Lookahead|[Problem](https://hackerrank.com/challenges/positive-lookahead/problem)|java|[Solution](./Assertions/PositiveLookahead.java)|
 |Negative Lookahead|[Problem](https://hackerrank.com/challenges/negative-lookahead/problem)|java|[Solution](./Assertions/NegativeLookahead.java)|
 |Positive Lookbehind|[Problem](https://hackerrank.com/challenges/positive-lookbehind/problem)|java|[Solution](./Assertions/PositiveLookbehind.java)|
-|Negative Lookbehind|[Problem](https://www.hackerrank.com/challenges/negative-lookbehind/problem)|java|[Solution](./Assertions/NegativeLookbehind.java)|
+|Negative Lookbehind|[Problem](https://www.hackerrank.com/challenges/negative-lookbehind/problem)|java|[Solution](./Assertions/NegativeLookitbehind.java)|
 **Applications**|||
+|Detect HTML Tags|[Problem](https://www.hackerrank.com/challenges/detect-html-tags)|java|[Solution](./Applications/DetectHTMLTags.java)|
+|IP Address Validation|[Problem](https://www.hackerrank.com/challenges/ip-address-validation)|java|[Solution](./Applications/IPAddressValidation.java)|
+|Find A Word|[Problem](https://www.hackerrank.com/challenges/find-a-word/problem)|java|[Solution](./Applications/FindAWord.java)|
 |Find A Sub-Word|[Problem](https://www.hackerrank.com/challenges/find-substring/problem)|java|[Solution](./Applications/FindASubWord.java)|
-Alien Username|[Problem](https://www.hackerrank.com/challenges/alien-username/problem)|java|[Solution](./Applications/AlienUsername.java)|
+|Alien Username|[Problem](https://www.hackerrank.com/challenges/alien-username/problem)|java|[Solution](./Applications/AlienUsername.java)|
+|Detect the Email addresses|[Problem](https://www.hackerrank.com/challenges/detect-the-email-addresses/problem)|java|[Solution](./Applications/DetectEmail.java)|
+|Detect the Domain name|[Problem](https://www.hackerrank.com/challenges/detect-the-domain-name)|java|[Solution](./Applications/DetectEmail.java)|
+|Detect HTML Links|[Problem](https://www.hackerrank.com/challenges/detect-html-links)|java|[Solution](./Applications/DetectHTMLLinks.java)|
+|Detect Valid Latitude & Longitude Pairs|[Problem](https://www.hackerrank.com/challenges/detecting-valid-latitude-and-longitude/problem)|java|[Solution](./Applications/DetectLatLon.java)|
+|Hackerrank Tweets|[Problem](https://www.hackerrank.com/challenges/hackerrank-tweets/problem)|java|[Solution](./Applications/HackerrankTweets.java)|
+|Valid PAN Format|[Problem](https://www.hackerrank.com/challenges/valid-pan-format/problem)|java|[Solution](./Applications/ValidPANFormat.java)|
+|Building a Smart IDE: Identifying comments|[Problem](https://www.hackerrank.com/challenges/ide-identifying-comments)|java|[Solution](./Applications/IDEComments.java)|
