@@ -1,5 +1,8 @@
 # Solutions to Competitive Programming problems
 
+[![GitHub last commit](https://img.shields.io/github/last-commit/imkashyap/Competitive-Programming)](https://github.com/imkashyap/Competitive-Programming/commits/master)
+[![GitHub repo size](https://img.shields.io/github/repo-size/imkashyap/Competitive-Programming)](https://github.com/imkashyap/Competitive-Programming/archive/master.zip)
+
 This repository is personal, made public in the hope that someone may find it useful, but:
  -   Solutions may not be best in algorithmic complexity terms.
  -   Solutions may have been written in a rush during a contest and may not make any sense.
